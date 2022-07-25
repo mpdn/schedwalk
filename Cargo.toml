@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "Test futures under all possible polling schedules"
+repo = "https://github.com/mpdn/schedwalk"
 
 [dependencies]
 async-task = "4.2.0"
